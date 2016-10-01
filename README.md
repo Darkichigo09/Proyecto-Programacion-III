@@ -1,6 +1,6 @@
 # Proyecto-Programacion-III
 ##Integrantes:
-- **José Carlos.- **
+-**José Carlos- **
 Kembly.
 Marjorie Blandon Aguilar.
 María Fernanda González Sánchez.
