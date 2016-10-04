@@ -1,9 +1,10 @@
 # Proyecto-Programacion-III
 ##Integrantes:
 ```
-.José Carlos
-.Kembly.
+.José Carlos Acuña Rojas
+.Kembly Arias Sandoval.
 .Marjorie Blandon Aguilar.
 .María Fernanda González Sánchez.
-.José David
+.José David Alvarez Vega.
+.Esteban Ortega
 ```
